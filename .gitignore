@@ -1,0 +1,31 @@
+# shell-scripte
+*.sh
+
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
+
+### Softmaker ###
+# LibreOffice locks
+*.BAK
+*.bak
+
+### MicrosoftOffice ###
+*.tmp
+*.TMP
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsdx
